@@ -1,0 +1,1 @@
+package lambdaexpressions.defaultstatic;

@@ -1,0 +1,1 @@
+package inbuilt.functional.interfaces.predicates;
